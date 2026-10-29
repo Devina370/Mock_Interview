@@ -1,0 +1,6 @@
+{
+  "name": "Ascent AI Career Coach",
+  "description": "Professional mock interview coaching with real-time objective scoring, personalized feedback, STAR-method guidance, and tailored interview questions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
